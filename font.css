@@ -1,0 +1,9 @@
+p {
+     
+  font-family: "Cookie", cursive;
+  font-size: 40px;
+  line-height: 1.5;
+  font-style: italic;
+  font-weight: bolder;
+  background-color: hsl(240, 75%, 29%);
+}
